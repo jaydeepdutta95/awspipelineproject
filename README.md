@@ -1,2 +1,2 @@
-# code-deploy-udemy
-This repository contains all the resources used in the Udemy course.
+# Basic Project for AWS Code pipeline
+This repository contains all the resources used in AWS pipeline sample project.
